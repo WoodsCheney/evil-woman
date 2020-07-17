@@ -1,8 +1,8 @@
-<h3 align='center'> evil-woman </h3>
+<h2 align='center'> evil-woman </h2>
 
-<p align='center'>本 repository 是针对 evil-man，并不专门针对女性，反对性别歧视，反对片面曲解，反对用个例代表整体</p>
-
-- 反对性别歧视
-- 反对用个别案例来否定整体
-- 反对单单使用中国案例来否定中国男性
-- 倡导男女平等，倡导权利义务相统一
+<p align='center'>
+  No, there are no evil woman but evil intentions and unsettled ones.
+</p>
+<p align='center'>
+  <img src='https://img.shields.io/badge/-Dignity,%20respect,%20and%20justice%20for%20all.-0f4c81?style=for-the-badge'/>
+</p>
